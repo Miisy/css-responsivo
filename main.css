@@ -85,7 +85,6 @@ aside .noticia{
     .conteudo{
         display: block;
     }
-    
     .container{
         max-width: 90%;
     }
@@ -121,7 +120,6 @@ aside .noticia{
     .menu > li{
         clear: both;
     }
-
     .submenu li{
         display:block;
         padding: 8px;
@@ -147,7 +145,6 @@ aside .noticia{
     }
     .noticias{
         grid-template-columns: repeat(2, 49%);
-
     }
 }
 @media  screen and (min-width: 1024px) {
